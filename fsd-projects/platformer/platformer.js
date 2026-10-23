@@ -49,7 +49,7 @@ $(function () {
   createPlatform(150, 300, 150, 30);
   createPlatform(0, 420, 150, 30);
   createPlatform(150, 540, 150, 30);
-
+  createPlatform(400, 400, 200, 20, "green", 100, 400, 2, 0, 0, 0);
 
 
     // TODO 3 - Create Collectables
